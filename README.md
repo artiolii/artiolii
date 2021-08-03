@@ -1,4 +1,4 @@
-## Oiii! Eu sou o Matheus Artioli
+### Matheus Artioli
  <div>
   <a href="https://github.com/artiolii">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=artiolii&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -18,6 +18,5 @@
   <a href = "mailto:artiolibr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-souza-artioli-antonio-206a48218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/artiolii/artiolii/blob/output/github-contribution-grid-snake.svg)
  
 </div>
